@@ -2,3 +2,4 @@ Era hace una vez un dev
 que le tenía miedo a jquery
 y entonces aprendio React
 pero conoció Ironhack
+Y se volvió más guapo
